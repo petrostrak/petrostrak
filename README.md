@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=petrostrak&show_icons=true&theme=graywhite)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petrostrak&layout=compact)](https://github.com/petrostrak/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bcf639b7-90ca-4c0f-b4b7-c6d10a4da36a)](https://github.com/petrostrak/github-readme-stats)
+
 <!--
 **petrostrak/petrostrak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
