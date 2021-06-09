@@ -28,5 +28,5 @@ My name is Petros Trakadas and I'm a web developer. I'm from Greece, living in A
 
 ## &#x1f4c8; Codersrank Summary
 <img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=petrostrak&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=petrostrak&badges=3&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px"
 />
