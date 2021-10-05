@@ -26,7 +26,10 @@ My name is Petros Trakadas and I'm a web developer. I'm from Greece, living in A
 [2]: https://github.com/petrostrak
 [3]: https://www.linkedin.com/in/petrostrak/
 
+<!---
 ## &#x1f4c8; Codersrank Summary
 <img
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=petrostrak&badges=3&show-avatar=false&style=--header-bg-color:%234b535f;--border-radius:10px;--name-font-size:10px;--rank-font-size:10px;--badge-rank-font-size:8px;--badge-technology-font-size:10px;--badge-location-font-size:7px"
 />
+-->
+
