@@ -2,7 +2,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/petrostrak/petrostrak/master/wave.gif" width="30px">
 
-My name is Petros Trakadas and I'm a software developer. I'm from Greece, living in Athens and currently working at European Dynamics. You can find me on [![LinkedIn][3.2]][3].
+My name is Petros Trakadas and I'm a software engineer. I'm from Greece, living in Athens and currently working at European Dynamics. You can find me on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
