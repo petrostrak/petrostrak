@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/petrostrak/petrostrak/master/header.png "Header")](https://petrostrak.netlify.app/)
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/petrostrak/petrostrak/master/wave.gif" width="10px" height="10px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/petrostrak/petrostrak/master/wave.gif" width="25px" height="25px">
 
 My name is Petros Trakadas and I'm a software engineer. I'm from Greece, living in Athens and currently working at European Dynamics. You can find me on [![LinkedIn][3.2]][3].
 
