@@ -7,7 +7,7 @@ My name is Petros Trakadas and I'm a software engineer. I'm from Greece, living 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MySql-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
