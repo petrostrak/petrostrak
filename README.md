@@ -5,9 +5,11 @@
 My name is Petros Trakadas and I'm a software engineer. I'm from Greece, living in Athens and currently working at European Dynamics.
 
 #### Let's keep in touch 👇
-[![LinkedIn][3]][4]
-[3]:  https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-[4]:  https://www.linkedin.com/in/petrostrak "My LinkedIn Profile"
+
+[![LinkedIn][1]][2]
+
+[1]:  https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[2]:  https://www.linkedin.com/in/petrostrak "My LinkedIn Profile"
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
