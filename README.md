@@ -1,8 +1,13 @@
 [![Header](https://raw.githubusercontent.com/petrostrak/petrostrak/master/header.png "Header")](https://petrostrak.netlify.app/)
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/petrostrak/petrostrak/master/wave.gif" width="25px" height="25px">
+### Hello, folks! <img src="https://raw.githubusercontent.com/petrostrak/petrostrak/master/wave.gif" width="25px" height="25px">
 
-My name is Petros Trakadas and I'm a software engineer. I'm from Greece, living in Athens and currently working at European Dynamics. You can find me on [![LinkedIn][3.2]][3].
+My name is Petros Trakadas and I'm a software engineer. I'm from Greece, living in Athens and currently working at European Dynamics.
+
+#### Let's keep in touch 👇
+[![LinkedIn][3]][4]
+[3]:  https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[4]:  https://www.linkedin.com/in/petrostrak "My LinkedIn Profile"
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -24,9 +29,7 @@ My name is Petros Trakadas and I'm a software engineer. I'm from Greece, living 
 [2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-[2]: https://github.com/petrostrak
-[3]: https://www.linkedin.com/in/petrostrak/
+
 
 <!---
 ## &#x1f4c8; Codersrank Summary
