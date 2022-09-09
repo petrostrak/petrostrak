@@ -6,10 +6,12 @@ My name is Petros Trakadas and I'm a software engineer. I'm from Greece, living 
 
 #### Let's keep in touch 👇
 
-[![LinkedIn][1]][2]
+[![LinkedIn][1]][2] [![Personal Site][3]][4]
 
 [1]:  https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [2]:  https://www.linkedin.com/in/petrostrak "My LinkedIn Profile"
+[3]:  https://img.shields.io/badge/%3E__Personal_Site-2bbc8a?style=for-the-badge&logo=code&logoColor=white
+[4]:  http://petrostrak.netlify.app/ "My Personal Site"
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
