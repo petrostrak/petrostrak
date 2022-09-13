@@ -1,4 +1,15 @@
 <!-- [![Header](https://raw.githubusercontent.com/petrostrak/petrostrak/master/header.png "Header")](https://petrostrak.netlify.app/) -->
+### Hello, folks! <img src="https://raw.githubusercontent.com/petrostrak/petrostrak/master/wave.gif" width="25px" height="25px">
+
+#### Let's keep in touch 👇
+
+[![LinkedIn][1]][2] [![Personal Site][3]][4]
+
+[1]:  https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[2]:  https://www.linkedin.com/in/petrostrak "My LinkedIn Profile"
+[3]:  https://img.shields.io/badge/%3E__Personal_Site-2bbc8a?style=for-the-badge&logo=code&logoColor=white
+[4]:  http://petrostrak.netlify.app/ "My Personal Site"
+
 ```go
 	petrosTrak := &AboutMe{
 		kind: "Human",
@@ -12,12 +23,19 @@
 				"Rust",
 				"CPP",
 			},
+			tools: []string{
+				"Debian Linux",
+				"Docker",
+				"!# Bash",
+				"MySQL",
+				"Postgresql",
+				"Redis",
+			},
 			locations: Locations{
 				github:   "https://github.com/petrostrak",
 				linkedin: "https://www.linkedin.com/in/petrostrak/",
 				personal: "https://petrostrak.netlify.app/",
 			},
-		},
 		favorites: Favorites{
 			food:           "🍣",
 			drink:          "🍺",
@@ -36,20 +54,7 @@
 	}
 ```
 
-### Hello, folks! <img src="https://raw.githubusercontent.com/petrostrak/petrostrak/master/wave.gif" width="25px" height="25px">
-
-My name is Petros Trakadas and I'm a software engineer. I'm from Greece, living in Athens and currently working at European Dynamics.
-
-#### Let's keep in touch 👇
-
-[![LinkedIn][1]][2] [![Personal Site][3]][4]
-
-[1]:  https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-[2]:  https://www.linkedin.com/in/petrostrak "My LinkedIn Profile"
-[3]:  https://img.shields.io/badge/%3E__Personal_Site-2bbc8a?style=for-the-badge&logo=code&logoColor=white
-[4]:  http://petrostrak.netlify.app/ "My Personal Site"
-
-## 🔧 Technologies & Tools
+<!-- ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=2bbc8a)
@@ -58,7 +63,7 @@ My name is Petros Trakadas and I'm a software engineer. I'm from Greece, living 
 ![](https://img.shields.io/badge/Tools-MySql-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSql-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Redis-informational?style=flat&logo=redis&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a) -->
 
 <!-- ## &#x1f4c8; GitHub Stats
 
