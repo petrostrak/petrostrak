@@ -16,7 +16,6 @@
 		metadata: Metadata{
 			name:    "Petros Trakadas",
 			from:    "🇬🇷",
-			livesIn: "🇬🇷",
 			programmingLanguages: []string{
 				"Golang",
 				"Java",
