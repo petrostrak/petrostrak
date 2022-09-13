@@ -15,8 +15,8 @@
 		kind: "Human",
 		metadata: Metadata{
 			name:    "Petros Trakadas",
-			from:    "Athens, Greece",
-			livesIn: "Athens, Greece",
+			from:    "🇬🇷",
+			livesIn: "🇬🇷",
 			programmingLanguages: []string{
 				"Golang",
 				"Java",
