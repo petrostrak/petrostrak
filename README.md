@@ -1,4 +1,40 @@
-[![Header](https://raw.githubusercontent.com/petrostrak/petrostrak/master/header.png "Header")](https://petrostrak.netlify.app/)
+<!-- [![Header](https://raw.githubusercontent.com/petrostrak/petrostrak/master/header.png "Header")](https://petrostrak.netlify.app/) -->
+```go
+	petrosTrak := &AboutMe{
+		kind: "Human",
+		metadata: Metadata{
+			name:    "Petros Trakadas",
+			from:    "Athens, Greece",
+			livesIn: "Athens, Greece",
+			programmingLanguages: []string{
+				"Golang",
+				"Java",
+				"Rust",
+				"CPP",
+			},
+			locations: Locations{
+				github:   "https://github.com/petrostrak",
+				linkedin: "https://www.linkedin.com/in/petrostrak/",
+				personal: "https://petrostrak.netlify.app/",
+			},
+		},
+		favorites: Favorites{
+			food:           "🍣",
+			drink:          "🍺",
+			programingLang: "Golang",
+			thinkingAbout: []string{
+				"gRPC",
+				"Concurrency in Go",
+				"русский язык",
+			},
+			hobbies: []string{
+				"Coding",
+				"Foreign Languages",
+				"🎮",
+			},
+		},
+	}
+```
 
 ### Hello, folks! <img src="https://raw.githubusercontent.com/petrostrak/petrostrak/master/wave.gif" width="25px" height="25px">
 
@@ -24,8 +60,7 @@ My name is Petros Trakadas and I'm a software engineer. I'm from Greece, living 
 ![](https://img.shields.io/badge/Tools-Redis-informational?style=flat&logo=redis&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
-## &#x1f4c8; GitHub Stats
+<!-- ## &#x1f4c8; GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=petrostrak&show_icons=true&theme=graywhite)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petrostrak&layout=compact)](https://github.com/petrostrak/github-readme-stats)  
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petrostrak&layout=compact)](https://github.com/petrostrak/github-readme-stats)   -->
