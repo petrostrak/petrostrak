@@ -20,7 +20,6 @@
 				"Golang",
 				"Java",
 				"Rust",
-				"CPP",
 			},
 			tools: []string{
 				"Debian Linux",
