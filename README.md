@@ -34,20 +34,25 @@
 				linkedin: "https://www.linkedin.com/in/petrostrak/",
 				personal: "https://petrostrak.netlify.app/",
 			},
+			foreignLanguages: []string{
+				"🇬🇷",
+				"🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+				"🇩🇪",
+			},
 		favorites: Favorites{
 			food:           "🍣",
 			drink:          "🍺",
 			programingLang: "Golang",
-			thinkingAbout: []string{
-				"gRPC",
-				"Concurrency in Go",
-				"русский язык",
-			},
-			hobbies: []string{
-				"Coding",
-				"Foreign Languages",
-				"🎮",
-			},
+		},
+		thinkingAbout: []string{
+			"gRPC",
+			"Concurrency in Go",
+			"русский язык",
+		},
+		hobbies: []string{
+			"Coding",
+			"Foreign Languages",
+			"🎮",
 		},
 	}
 ```
