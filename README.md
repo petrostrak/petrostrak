@@ -19,6 +19,7 @@
 			programmingLanguages: []string{
 				"Golang",
 				"Java",
+				"Javascript",
 				"Rust",
 			},
 			tools: []string{
