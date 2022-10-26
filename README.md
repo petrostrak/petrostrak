@@ -48,7 +48,8 @@
 		thinkingAbout: []string{
 			"gRPC",
 			"Concurrency in Go",
-			"русский язык",
+			"Rust",
+			"日本語",
 		},
 		hobbies: []string{
 			"Coding",
