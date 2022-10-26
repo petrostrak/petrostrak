@@ -49,6 +49,7 @@
 			"gRPC",
 			"Concurrency in Go",
 			"Rust",
+			"русский язык",
 			"日本語",
 		},
 		hobbies: []string{
