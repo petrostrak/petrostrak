@@ -19,7 +19,6 @@
 			programmingLanguages: []string{
 				"Golang",
 				"Java",
-				"Javascript",
 				"Rust",
 			},
 			tools: []string{
@@ -49,7 +48,6 @@
 			"gRPC",
 			"Concurrency in Go",
 			"Rust",
-			"русский язык",
 			"日本語",
 		},
 		hobbies: []string{
