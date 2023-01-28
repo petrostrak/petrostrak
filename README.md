@@ -53,6 +53,7 @@
 		hobbies: []string{
 			"Coding",
 			"Foreign Languages",
+			"🏍️",			
 			"🎮",
 		},
 	}
