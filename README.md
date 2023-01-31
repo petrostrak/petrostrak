@@ -18,8 +18,9 @@
 			from:    "🇬🇷",
 			programmingLanguages: []string{
 				"Golang",
+				"Rust",				
 				"Java",
-				"Rust",
+				"NodeJS",
 			},
 			tools: []string{
 				"Debian Linux",
