@@ -20,7 +20,7 @@
 				"Golang",
 				"Rust",				
 				"Java",
-				"NodeJS",
+				"C/C++",
 			},
 			tools: []string{
 				"Debian Linux",
@@ -46,8 +46,7 @@
 			programingLang: "Golang",
 		},
 		thinkingAbout: []string{
-			"gRPC",
-			"Concurrency in Go",
+			"Embedded System Programming",
 			"Rust",
 			"日本語",
 		},
