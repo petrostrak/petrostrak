@@ -46,7 +46,7 @@
 			programingLang: "Golang",
 		},
 		thinkingAbout: []string{
-			"Embedded System Programming",
+			"Embedded Systems Programming",
 			"Rust",
 			"日本語",
 		},
