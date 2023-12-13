@@ -43,7 +43,7 @@
 		favorites: Favorites{
 			food:           "🍣",
 			drink:          "🍺",
-			programingLang: "Rust",
+			programingLang: "Golang",
 		},
 		thinkingAbout: []string{
 			"Embedded Systems Programming",
