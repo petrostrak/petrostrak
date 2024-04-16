@@ -19,8 +19,8 @@
 			programmingLanguages: []string{
 				"Golang",
 				"Rust",				
+				"C",
 				"Java",
-				"C/C++",
 			},
 			tools: []string{
 				"Debian Linux",
